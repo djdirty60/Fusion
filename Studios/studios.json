@@ -1,12 +1,12 @@
 [
   {
-    "id": "dc-studios",
-    "name": "DC Studios",
+    "id": "20th-Century-Studios",
+    "name": "20th Century Studios",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250514_0158_Cinematic%20DC%20Poster_remix_01jv619ve9esh9z2ssvn08rexs.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/20th%20Century%20Studios.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
@@ -17,8 +17,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "dreamworks-pictures",
-    "name": "DreamWorks Pictures",
+    "id": "A24",
+    "name": "A24",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -34,8 +34,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "lionsgate",
-    "name": "Lionsgate",
+    "id": "Amblin-Entertainment",
+    "name": "Amblin Entertainment",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -51,8 +51,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "marvel-studios",
-    "name": "Marvel Studios",
+    "id": "Columbia-Pictures",
+    "name": "Columbia Pictures",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -68,8 +68,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "miramax",
-    "name": "Miramax",
+    "id": "DC",
+    "name": "DC",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -85,8 +85,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "metro-goldwyn-mayer",
-    "name": "Metro–Goldwyn–Mayer",
+    "id": "DreamWorks-Pictures",
+    "name": "DreamWorks Pictures",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -102,8 +102,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "paramount-pictures",
-    "name": "Paramount Pictures",
+    "id": "Legendary",
+    "name": "Legendary",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -119,8 +119,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "searchlight-pictures",
-    "name": "Searchlight Pictures",
+    "id": "Lionsgate",
+    "name": "Lionsgate",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -136,8 +136,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "sony-pictures",
-    "name": "Sony Pictures",
+    "id": "Lucasfilm-Ltd.",
+    "name": "Lucasfilm Ltd.",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -153,8 +153,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "universal-pictures",
-    "name": "Universal Pictures",
+    "id": "Metro-Goldwyn-Mayer",
+    "name": "Metro Goldwyn Mayer",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -170,8 +170,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "warner-bros-pictures",
-    "name": "Warner Bros. Pictures",
+    "id": "Millennium-Media",
+    "name": "Millennium Media",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -187,8 +187,93 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "walt-disney-pictures",
-    "name": "Walt Disney Pictures",
+    "id": "Miramax",
+    "name": "Miramax",
+    "category": "Studios",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250514_0144_Magical%20Disney%20Poster_remix_01jv60fp9fe1t89mkmvhsjxaty.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "New-Line-Cinema",
+    "name": "New Line Cinema",
+    "category": "Studios",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250514_0144_Magical%20Disney%20Poster_remix_01jv60fp9fe1t89mkmvhsjxaty.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "Orion-Pictures",
+    "name": "Orion Pictures",
+    "category": "Studios",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250514_0144_Magical%20Disney%20Poster_remix_01jv60fp9fe1t89mkmvhsjxaty.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "Paramount-Pictures",
+    "name": "Paramount Pictures",
+    "category": "Studios",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250514_0144_Magical%20Disney%20Poster_remix_01jv60fp9fe1t89mkmvhsjxaty.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "Pixar-Animation-Studios",
+    "name": "Pixar Animation Studios",
+    "category": "Studios",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250514_0144_Magical%20Disney%20Poster_remix_01jv60fp9fe1t89mkmvhsjxaty.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "Sony-Pictures",
+    "name": "Sony Pictures",
     "category": "Studios",
     "catalogIds": [],
     "displayMode": "Grid",
