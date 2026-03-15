@@ -1,342 +1,680 @@
 [
   {
-    "id": "20th-Century-Studios",
-    "name": "20th Century Studios",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/20th%20Century%20Studios.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/20th%20Century%20Studios.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          127928
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            127928
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "20th-Century-Studios",
+    "layout" : "Poster",
+    "name" : "20th Century Studios"
   },
   {
-    "id": "A24",
-    "name": "A24",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/A24.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/A24.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          41077
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            41077
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "A24",
+    "layout" : "Poster",
+    "name" : "A24"
   },
   {
-    "id": "Amblin-Entertainment",
-    "name": "Amblin Entertainment",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Amblin%20Entertainment.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Amblin%20Entertainment.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "cinema",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          56
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "cinema",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            56
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Amblin-Entertainment",
+    "layout" : "Poster",
+    "name" : "Amblin Entertainment"
   },
   {
-    "id": "Columbia-Pictures",
-    "name": "Columbia Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Columbia%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Columbia%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          3614
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            3614
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Columbia-Pictures",
+    "layout" : "Poster",
+    "name" : "Columbia Pictures"
   },
   {
-    "id": "DC",
-    "name": "DC",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/DC.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/DC.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "cinema",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          429
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "cinema",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            429
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "DC",
+    "layout" : "Poster",
+    "name" : "DC"
   },
   {
-    "id": "DreamWorks-Pictures",
-    "name": "DreamWorks Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/DreamWorks%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/DreamWorks%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          7
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            7
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "DreamWorks-Pictures",
+    "layout" : "Poster",
+    "name" : "DreamWorks Pictures"
   },
   {
-    "id": "Legendary",
-    "name": "Legendary",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Legendary.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Legendary.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          923
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            923
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Legendary",
+    "layout" : "Poster",
+    "name" : "Legendary"
   },
   {
-    "id": "Lionsgate",
-    "name": "Lionsgate",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Lionsgate.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Lionsgate.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          1632
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            1632
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Lionsgate",
+    "layout" : "Poster",
+    "name" : "Lionsgate"
   },
   {
-    "id": "Lucasfilm-Ltd.",
-    "name": "Lucasfilm Ltd.",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Lucasfilm%20Ltd..png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Lucasfilm%20Ltd..png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          1
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            1
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Lucasfilm-Ltd.",
+    "layout" : "Poster",
+    "name" : "Lucasfilm Ltd."
   },
   {
-    "id": "Metro-Goldwyn-Mayer",
-    "name": "Metro Goldwyn Mayer",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Metro-Goldwyn-Mayer.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Metro-Goldwyn-Mayer.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          21
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            21
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Metro-Goldwyn-Mayer",
+    "layout" : "Poster",
+    "name" : "Metro Goldwyn Mayer"
   },
   {
-    "id": "Millennium-Media",
-    "name": "Millennium Media",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Millennium%20Media.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Millennium%20Media.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          1020
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            1020
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Millennium-Media",
+    "layout" : "Poster",
+    "name" : "Millennium Media"
   },
   {
-    "id": "Miramax",
-    "name": "Miramax",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Miramax.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Miramax.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          14
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            14
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Miramax",
+    "layout" : "Poster",
+    "name" : "Miramax"
   },
   {
-    "id": "New-Line-Cinema",
-    "name": "New Line Cinema",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/New%20Line%20Cinema.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/New%20Line%20Cinema.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          12
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            12
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "New-Line-Cinema",
+    "layout" : "Poster",
+    "name" : "New Line Cinema"
   },
   {
-    "id": "Orion-Pictures",
-    "name": "Orion Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Orion%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Orion%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          267168
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            267168
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Orion-Pictures",
+    "layout" : "Poster",
+    "name" : "Orion Pictures"
   },
   {
-    "id": "Paramount-Pictures",
-    "name": "Paramount Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Paramount%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Paramount%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          4
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            4
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Paramount-Pictures",
+    "layout" : "Poster",
+    "name" : "Paramount Pictures"
   },
   {
-    "id": "Pixar-Animation-Studios",
-    "name": "Pixar Animation Studios",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Pixar%20Animation%20Studios.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Pixar%20Animation%20Studios.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          3
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            3
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Pixar-Animation-Studios",
+    "layout" : "Poster",
+    "name" : "Pixar Animation Studios"
   },
   {
-    "id": "Sony-Pictures",
-    "name": "Sony Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Sony%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Sony%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          11073
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            11073
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Sony-Pictures",
+    "layout" : "Poster",
+    "name" : "Sony Pictures"
   },
   {
-    "id": "Universal Pictures",
-    "name": "Universal Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Universal%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Universal%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          287648
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            287648
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Universal Pictures",
+    "layout" : "Poster",
+    "name" : "Universal Pictures"
   },
   {
-    "id": "Walt-Disney-Pictures",
-    "name": "Walt Disney Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Walt%20Disney%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Walt%20Disney%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          2
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            2
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Walt-Disney-Pictures",
+    "layout" : "Poster",
+    "name" : "Walt Disney Pictures"
   },
   {
-    "id": "Warner-Bros.-Pictures",
-    "name": "Warner Bros. Pictures",
-    "category": "Studios",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Studios/Warner%20Bros.%20Pictures.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/Studios\/Warner%20Bros.%20Pictures.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "limit" : 30,
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withCompanies" : [
+          174
+        ]
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "limit" : 30,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withCompanies" : [
+            174
+          ]
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Warner-Bros.-Pictures",
+    "layout" : "Poster",
+    "name" : "Warner Bros. Pictures"
   }
 ]
