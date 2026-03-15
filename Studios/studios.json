@@ -37,7 +37,6 @@
     "dataSource" : {
       "kind" : "tmdbDiscover",
       "payload" : {
-        "limit" : 30,
         "releaseChannel" : "digital",
         "releaseStatus" : "released",
         "sortBy" : "primary_release_date.desc",
@@ -51,7 +50,6 @@
       {
         "kind" : "tmdbDiscover",
         "payload" : {
-          "limit" : 30,
           "releaseChannel" : "digital",
           "releaseStatus" : "released",
           "sortBy" : "primary_release_date.desc",
