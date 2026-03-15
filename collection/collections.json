@@ -1917,6 +1917,33 @@
     "name" : "Ghostbusters"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Greenland%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Greenland Collection",
+        "listSlug" : "greenland-collection",
+        "traktId" : 21716572,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Greenland Collection",
+          "listSlug" : "greenland-collection",
+          "traktId" : 21716572,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "C54B995E-E271-4910-A773-BC5FE0C42D25",
+    "layout" : "Poster",
+    "name" : "Greenland"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Godzilla%20Complete%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
