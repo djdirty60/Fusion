@@ -1,172 +1,301 @@
 [
   {
-    "id": "action",
-    "name": "Action",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Action.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Action.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          28
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie",
+        "withOriginalLanguage" : "en"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            28
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie",
+          "withOriginalLanguage" : "en"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "action",
+    "layout" : "Poster",
+    "name" : "Action"
   },
   {
-    "id": "animation",
-    "name": "Animation",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Animation.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Animation.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          16
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            16
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "animation",
+    "layout" : "Poster",
+    "name" : "Animation"
   },
   {
-    "id": "Children",
-    "name": "Children",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Children.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Comedy.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          35
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            35
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Comedy",
+    "layout" : "Poster",
+    "name" : "Comedy"
   },
   {
-    "id": "Comedy",
-    "name": "Comedy",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Comedy.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Crime.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          80
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            80
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Crime",
+    "layout" : "Poster",
+    "name" : "Crime"
   },
   {
-    "id": "Crime",
-    "name": "Crime",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Crime.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Family.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          10751
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            10751
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Family",
+    "layout" : "Poster",
+    "name" : "Family"
   },
   {
-    "id": "Family",
-    "name": "Family",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Family.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Horror.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          27
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            27
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "horror",
+    "layout" : "Poster",
+    "name" : "Horror"
   },
   {
-    "id": "horror",
-    "name": "Horror",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Horror.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Mystery.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          9648
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            9648
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "Mystery",
+    "layout" : "Poster",
+    "name" : "Mystery"
   },
   {
-    "id": "Mystery",
-    "name": "Mystery",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Mystery.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/Thriller.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          53
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            53
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "thriller",
+    "layout" : "Poster",
+    "name" : "Thriller"
   },
   {
-    "id": "thriller",
-    "name": "Thriller",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/Thriller.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
-  },
-  {
-    "id": "war",
-    "name": "War",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/genres/War.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/genres\/War.png",
+    "dataSource" : {
+      "kind" : "tmdbDiscover",
+      "payload" : {
+        "includeGenres" : [
+          10752
+        ],
+        "releaseChannel" : "digital",
+        "releaseStatus" : "released",
+        "sortBy" : "primary_release_date.desc",
+        "type" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            10752
+          ],
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "primary_release_date.desc",
+          "type" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "war",
+    "layout" : "Poster",
+    "name" : "War"
   }
 ]
