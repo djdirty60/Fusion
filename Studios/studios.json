@@ -583,7 +583,7 @@
         "sortBy" : "primary_release_date.desc",
         "type" : "movie",
         "withCompanies" : [
-          287648
+          33
         ]
       }
     },
@@ -597,7 +597,7 @@
           "sortBy" : "primary_release_date.desc",
           "type" : "movie",
           "withCompanies" : [
-            287648
+            33
           ]
         }
       }
