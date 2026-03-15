@@ -6309,20 +6309,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Mummy%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Mummy Collection",
+        "listSlug" : "the-mummy-collection",
+        "traktId" : 71,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Mummy Collection",
+          "listSlug" : "the-mummy-collection",
+          "traktId" : 71,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6334,20 +6336,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20NeverEnding%20Story%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The NeverEnding Story Collection",
+        "listSlug" : "the-neverending-story-collection",
+        "traktId" : 1070,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The NeverEnding Story Collection",
+          "listSlug" : "the-neverending-story-collection",
+          "traktId" : 1070,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6359,20 +6363,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Nun%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Nun Collection",
+        "listSlug" : "the-nun-collection",
+        "traktId" : 23416923,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Nun Collection",
+          "listSlug" : "the-nun-collection",
+          "traktId" : 23416923,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6384,20 +6390,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Nutty%20Professor%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Nutty Professor Collection",
+        "listSlug" : "the-nutty-professor-collection",
+        "traktId" : 386,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Nutty Professor Collection",
+          "listSlug" : "the-nutty-professor-collection",
+          "traktId" : 386,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6409,20 +6417,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Old%20Guard%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Old Guard Collection",
+        "listSlug" : "the-old-guard-collection",
+        "traktId" : 21836852,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Old Guard Collection",
+          "listSlug" : "the-old-guard-collection",
+          "traktId" : 21836852,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6434,20 +6444,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Omen%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Omen Collection",
+        "listSlug" : "the-omen-collection",
+        "traktId" : 103,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Omen Collection",
+          "listSlug" : "the-omen-collection",
+          "traktId" : 103,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6459,20 +6471,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Punisher%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Punisher Collection",
+        "listSlug" : "the-punisher-collection",
+        "traktId" : 24064844,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Punisher Collection",
+          "listSlug" : "the-punisher-collection",
+          "traktId" : 24064844,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6484,20 +6498,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Purge%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Purge Collection",
+        "listSlug" : "the-purge-collection",
+        "traktId" : 1885,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Purge Collection",
+          "listSlug" : "the-purge-collection",
+          "traktId" : 1885,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6509,20 +6525,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Ring%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Ring Collection",
+        "listSlug" : "the-ring-collection",
+        "traktId" : 70,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Ring Collection",
+          "listSlug" : "the-ring-collection",
+          "traktId" : 70,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6534,20 +6552,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Santa%20Clause%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Santa Clause Collection",
+        "listSlug" : "the-santa-clause-collection",
+        "traktId" : 360,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Santa Clause Collection",
+          "listSlug" : "the-santa-clause-collection",
+          "traktId" : 360,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6559,20 +6579,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Secret%20Life%20of%20Pets%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Secret Life of Pets Collection",
+        "listSlug" : "the-secret-life-of-pets-collection",
+        "traktId" : 2932490,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Secret Life of Pets Collection",
+          "listSlug" : "the-secret-life-of-pets-collection",
+          "traktId" : 2932490,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6584,20 +6606,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Smurfs%20(Theatrical)%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Smurfs (Theatrical) Collection",
+        "listSlug" : "the-smurfs-theatrical-collection",
+        "traktId" : 1296,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Smurfs (Theatrical) Collection",
+          "listSlug" : "the-smurfs-theatrical-collection",
+          "traktId" : 1296,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6609,20 +6633,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Strangers%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Strangers (Remake) Collection",
+        "listSlug" : "the-strangers-remake-collection",
+        "traktId" : 25780956,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Strangers (Remake) Collection",
+          "listSlug" : "the-strangers-remake-collection",
+          "traktId" : 25780956,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6634,20 +6660,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Terminator%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Terminator Collection",
+        "listSlug" : "the-terminator-collection",
+        "traktId" : 36,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Terminator Collection",
+          "listSlug" : "the-terminator-collection",
+          "traktId" : 36,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6659,20 +6687,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Transporter%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Transporter Collection",
+        "listSlug" : "the-transporter-collection",
+        "traktId" : 246,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Transporter Collection",
+          "listSlug" : "the-transporter-collection",
+          "traktId" : 246,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6684,20 +6714,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Trolls%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Trolls Collection",
+        "listSlug" : "the-trolls-collection",
+        "traktId" : 4347615,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Trolls Collection",
+          "listSlug" : "the-trolls-collection",
+          "traktId" : 4347615,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6709,20 +6741,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Twilight%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Twilight Collection",
+        "listSlug" : "the-twilight-collection",
+        "traktId" : 350,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Twilight Collection",
+          "listSlug" : "the-twilight-collection",
+          "traktId" : 350,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6734,20 +6768,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Witch%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Witch Collection",
+        "listSlug" : "the-witch-collection",
+        "traktId" : 9594692,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Witch Collection",
+          "listSlug" : "the-witch-collection",
+          "traktId" : 9594692,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6759,20 +6795,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Wolverine%20Collection.png",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "The Wolverine Collection",
+        "listSlug" : "the-wolverine-collection",
+        "traktId" : 3665658,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "The Wolverine Collection",
+          "listSlug" : "the-wolverine-collection",
+          "traktId" : 3665658,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6784,20 +6822,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Thor%20Collection.png",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Thor Collection",
+        "listSlug" : "thor-collection",
+        "traktId" : 475,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Thor Collection",
+          "listSlug" : "thor-collection",
+          "traktId" : 475,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6809,20 +6849,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Top%20Gun%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Top Gun Collection",
+        "listSlug" : "top-gun-collection",
+        "traktId" : 5022174,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Top Gun Collection",
+          "listSlug" : "top-gun-collection",
+          "traktId" : 5022174,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6834,20 +6876,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Toy%20Story%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Toy Story Collection",
+        "listSlug" : "toy-story-collection",
+        "traktId" : 117,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Toy Story Collection",
+          "listSlug" : "toy-story-collection",
+          "traktId" : 117,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6859,20 +6903,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Transformers%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Transformers Collection",
+        "listSlug" : "transformers-collection",
+        "traktId" : 176,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Transformers Collection",
+          "listSlug" : "transformers-collection",
+          "traktId" : 176,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6884,20 +6930,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Twister%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Twister Collection",
+        "listSlug" : "twister-collection",
+        "traktId" : 24401589,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Twister Collection",
+          "listSlug" : "twister-collection",
+          "traktId" : 24401589,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6909,20 +6957,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Underworld%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Underworld Collection",
+        "listSlug" : "underworld-collection",
+        "traktId" : 43,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Underworld Collection",
+          "listSlug" : "underworld-collection",
+          "traktId" : 43,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6934,20 +6984,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/V_H_S%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "V\/H\/S Collection",
+        "listSlug" : "v-h-s-collection",
+        "traktId" : 1709,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "V\/H\/S Collection",
+          "listSlug" : "v-h-s-collection",
+          "traktId" : 1709,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6959,20 +7011,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Venom%20Collection.png",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Venom Collection",
+        "listSlug" : "venom-collection-6273063",
+        "traktId" : 6273063,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Venom Collection",
+          "listSlug" : "venom-collection-6273063",
+          "traktId" : 6273063,
+          "username" : "Trakt"
         }
       }
     ],
@@ -6982,47 +7036,24 @@
     "name" : "Venom"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Willy%20Wonka%20Collection.jpg",
-    "dataSource" : {
-      "kind" : "tmdbDiscover",
-      "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
-      }
-    },
-    "dataSources" : [
-      {
-        "kind" : "tmdbDiscover",
-        "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
-        }
-      }
-    ],
-    "hideTitle" : true,
-    "id" : "Willy-Wonka",
-    "layout" : "Poster",
-    "name" : "Willy Wonka"
-  },
-  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wonder%20Woman%20Collection.png",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Wonder Woman Collection",
+        "listSlug" : "wonder-woman-collection",
+        "traktId" : 3994789,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Wonder Woman Collection",
+          "listSlug" : "wonder-woman-collection",
+          "traktId" : 3994789,
+          "username" : "Trakt"
         }
       }
     ],
@@ -7034,20 +7065,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wrong%20Turn%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Wrong Turn Collection",
+        "listSlug" : "wrong-turn-collection",
+        "traktId" : 446,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Wrong Turn Collection",
+          "listSlug" : "wrong-turn-collection",
+          "traktId" : 446,
+          "username" : "Trakt"
         }
       }
     ],
@@ -7059,20 +7092,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/X%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "X Collection",
+        "listSlug" : "x-collection",
+        "traktId" : 23220301,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "X Collection",
+          "listSlug" : "x-collection",
+          "traktId" : 23220301,
+          "username" : "Trakt"
         }
       }
     ],
@@ -7084,20 +7119,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/X-Men%20Collection.png",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "X-Men Collection",
+        "listSlug" : "x-men-collection",
+        "traktId" : 194,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "X-Men Collection",
+          "listSlug" : "x-men-collection",
+          "traktId" : 194,
+          "username" : "Trakt"
         }
       }
     ],
@@ -7109,20 +7146,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/xXx%20Collection.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "xXx Collection",
+        "listSlug" : "xxx-collection",
+        "traktId" : 313,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "xXx Collection",
+          "listSlug" : "xxx-collection",
+          "traktId" : 313,
+          "username" : "Trakt"
         }
       }
     ],
@@ -7134,20 +7173,22 @@
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Zootopia.jpg",
     "dataSource" : {
-      "kind" : "tmdbDiscover",
+      "kind" : "traktList",
       "payload" : {
-        "limit" : 30,
-        "sortBy" : "popularity.desc",
-        "type" : "movie"
+        "listName" : "Zootopia Collection",
+        "listSlug" : "zootopia-collection",
+        "traktId" : 24669179,
+        "username" : "Trakt"
       }
     },
     "dataSources" : [
       {
-        "kind" : "tmdbDiscover",
+        "kind" : "traktList",
         "payload" : {
-          "limit" : 30,
-          "sortBy" : "popularity.desc",
-          "type" : "movie"
+          "listName" : "Zootopia Collection",
+          "listSlug" : "zootopia-collection",
+          "traktId" : 24669179,
+          "username" : "Trakt"
         }
       }
     ],
