@@ -2079,7 +2079,7 @@
     "name" : "Frozen"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ghost%20Rider%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Ghost%20Rider%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -4923,7 +4923,7 @@
     "name" : "Scream"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Shazam!%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Shazam!%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -5346,7 +5346,7 @@
     "name" : "Star Wars"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Superman.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Superman%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -5751,7 +5751,7 @@
     "name" : "The Babysitter"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Batman%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/The%20Batman%20Collection.png",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -6046,7 +6046,7 @@
     "name" : "The Croods"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Dark%20Knight%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/The%20Dark%20Knight%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -7558,7 +7558,7 @@
     "name" : "Wicked"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wonder%20Woman%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Wonder%20Woman%20Collection.png",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
