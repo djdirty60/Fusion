@@ -486,7 +486,7 @@
     "name" : "Ant-Man"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Aquaman%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Aquaman%20Collection.png",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -837,7 +837,7 @@
     "name" : "Black Panther"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Blade%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Blade%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
