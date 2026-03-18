@@ -648,7 +648,7 @@
     "name" : "Bad Santa"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Batman.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Batman%20Collection-2.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -1836,7 +1836,7 @@
     "name" : "Fantastic Beasts"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Fantastic%20Four%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Fantastic%20Four%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -3051,7 +3051,7 @@
     "name" : "Johnny English"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Joker%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Joker%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -7639,7 +7639,7 @@
     "name" : "X"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/X-Men%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/X-Men%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
