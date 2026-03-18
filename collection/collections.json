@@ -324,6 +324,33 @@
     "name" : "Alien"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Alvin%20and%20the%20Chipmunks%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Alvin and the Chipmunks Collection",
+        "listSlug" : "alvin-and-the-chipmunks-collection",
+        "traktId" : 299,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Alvin and the Chipmunks Collection",
+          "listSlug" : "alvin-and-the-chipmunks-collection",
+          "traktId" : 299,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "873543DF-67A0-4126-B785-6303168A6186",
+    "layout" : "Poster",
+    "name" : "Alvin and the Chipmunks"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/American%20Pie%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -378,6 +405,33 @@
     "name" : "American Pie (Spin-off)"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/An%20American%20Werewolf%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "An American Werewolf Collection",
+        "listSlug" : "an-american-werewolf-collection",
+        "traktId" : 107,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "An American Werewolf Collection",
+          "listSlug" : "an-american-werewolf-collection",
+          "traktId" : 107,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "735AA37D-61DD-41BF-9437-593FB4134061",
+    "layout" : "Poster",
+    "name" : "An American Werewolf"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Annabelle%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -405,7 +459,7 @@
     "name" : "Annabelle"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ant-Man%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ant-Man%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -729,7 +783,34 @@
     "name" : "Bird Box"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Black%20Panther%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Beethoven%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Beethoven Collection",
+        "listSlug" : "beethoven-collection",
+        "traktId" : 496,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Beethoven Collection",
+          "listSlug" : "beethoven-collection",
+          "traktId" : 496,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "ADD210EA-E2C6-4862-AD86-0F1E79CC5AD3",
+    "layout" : "Poster",
+    "name" : "Beethoven"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Black%20Panther%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -837,6 +918,33 @@
     "name" : "Blair Witch"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Bloodsport%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Bloodsport Collection",
+        "listSlug" : "bloodsport-collection",
+        "traktId" : 593,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Bloodsport Collection",
+          "listSlug" : "bloodsport-collection",
+          "traktId" : 593,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "48712635-2ACE-4A0A-A02E-0E4067D36AF0",
+    "layout" : "Poster",
+    "name" : "Bloodsport"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Bridget%20Jones%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -891,7 +999,7 @@
     "name" : "Candyman"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Captain%20America%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Captain%20America%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -918,7 +1026,7 @@
     "name" : "Captain America"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Captain%20Marvel%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Captain%20Marvel%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -943,6 +1051,33 @@
     "id" : "Captain_Marvel",
     "layout" : "Poster",
     "name" : "Captain Marvel"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Carrie%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Carrie Collection",
+        "listSlug" : "carrie-collection",
+        "traktId" : 310,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Carrie Collection",
+          "listSlug" : "carrie-collection",
+          "traktId" : 310,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "7F36232D-A118-4085-AE5C-B7BE302DE35E",
+    "layout" : "Poster",
+    "name" : "Carrie"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Cars%20Collection.jpg",
@@ -970,6 +1105,33 @@
     "id" : "Cars",
     "layout" : "Poster",
     "name" : "Cars"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Cheaper%20by%20the%20Dozen%20(2003)%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Cheaper by the Dozen (2003) Collection",
+        "listSlug" : "cheaper-by-the-dozen-2003-collection",
+        "traktId" : 424,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Cheaper by the Dozen (2003) Collection",
+          "listSlug" : "cheaper-by-the-dozen-2003-collection",
+          "traktId" : 424,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "A6779EB1-384C-48AF-8BF2-D8E752C6B8A3",
+    "layout" : "Poster",
+    "name" : "Cheaper by the Dozen (2003)"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Children%20of%20the%20Corn%20Collection.jpg",
@@ -1188,7 +1350,7 @@
     "name" : "Daddy's Home"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Deadpool%20Collection.png",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Deadpool%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
@@ -1321,6 +1483,33 @@
     "id" : "Despicable_Me",
     "layout" : "Poster",
     "name" : "Despicable Me"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Deuce%20Bigalow%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Deuce Bigalow Collection",
+        "listSlug" : "deuce-bigalow-collection",
+        "traktId" : 492,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Deuce Bigalow Collection",
+          "listSlug" : "deuce-bigalow-collection",
+          "traktId" : 492,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "21F72855-247D-4F3E-9F70-2512370BE756",
+    "layout" : "Poster",
+    "name" : "Deuce Bigalow"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Die%20Hard%20Collection.jpg",
@@ -1456,6 +1645,33 @@
     "id" : "dune",
     "layout" : "Poster",
     "name" : "Dune"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Dungeons%20%26%20Dragons%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Dungeons & Dragons Collection",
+        "listSlug" : "dungeons-dragons-collection",
+        "traktId" : 377,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Dungeons & Dragons Collection",
+          "listSlug" : "dungeons-dragons-collection",
+          "traktId" : 377,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "A33E2C42-902F-4838-90D9-3074812A3495",
+    "layout" : "Poster",
+    "name" : "Dungeons & Dragons"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Eastrail%20177%20_%20Unbreakable.jpg",
@@ -1917,33 +2133,6 @@
     "name" : "Ghostbusters"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Greenland%20Collection.jpg",
-    "dataSource" : {
-      "kind" : "traktList",
-      "payload" : {
-        "listName" : "Greenland Collection",
-        "listSlug" : "greenland-collection",
-        "traktId" : 21716572,
-        "username" : "Trakt"
-      }
-    },
-    "dataSources" : [
-      {
-        "kind" : "traktList",
-        "payload" : {
-          "listName" : "Greenland Collection",
-          "listSlug" : "greenland-collection",
-          "traktId" : 21716572,
-          "username" : "Trakt"
-        }
-      }
-    ],
-    "hideTitle" : true,
-    "id" : "C54B995E-E271-4910-A773-BC5FE0C42D25",
-    "layout" : "Poster",
-    "name" : "Greenland"
-  },
-  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Godzilla%20Complete%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -1969,6 +2158,33 @@
     "id" : "Godzilla",
     "layout" : "Poster",
     "name" : "Godzilla"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Greenland%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Greenland Collection",
+        "listSlug" : "greenland-collection",
+        "traktId" : 21716572,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Greenland Collection",
+          "listSlug" : "greenland-collection",
+          "traktId" : 21716572,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "C54B995E-E271-4910-A773-BC5FE0C42D25",
+    "layout" : "Poster",
+    "name" : "Greenland"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Guardians%20of%20the%20Galaxy%20Collection.jpg",
@@ -2214,6 +2430,33 @@
     "name" : "Hellraiser"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Herbie%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Herbie Collection",
+        "listSlug" : "herbie-collection",
+        "traktId" : 534,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Herbie Collection",
+          "listSlug" : "herbie-collection",
+          "traktId" : 534,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "0886E696-DB15-4EBE-9C6C-7962A1A87319",
+    "layout" : "Poster",
+    "name" : "Herbie"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hercule%20Poirot%20(Kenneth%20Branagh)%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -2320,6 +2563,60 @@
     "id" : "Hocus_Pocus",
     "layout" : "Poster",
     "name" : "Hocus Pocus"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Home%20Alone%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Home Alone Collection",
+        "listSlug" : "home-alone-collection",
+        "traktId" : 101,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Home Alone Collection",
+          "listSlug" : "home-alone-collection",
+          "traktId" : 101,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "B24AFF40-3326-47B6-845B-06854042A968",
+    "layout" : "Poster",
+    "name" : "Home Alone"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hostel%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Hostel Collection",
+        "listSlug" : "hostel-collection",
+        "traktId" : 165,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Hostel Collection",
+          "listSlug" : "hostel-collection",
+          "traktId" : 165,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "58230779-E10E-468E-A565-04D2030DE43A",
+    "layout" : "Poster",
+    "name" : "Hostel"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hotel%20Transylvania%20Collection.jpg",
@@ -2860,6 +3157,33 @@
     "id" : "jurassic-park",
     "layout" : "Poster",
     "name" : "Jurassic Park"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Kickboxer%20(Reboot)%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Kickboxer Collection",
+        "listSlug" : "kickboxer-collection",
+        "traktId" : 477,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Kickboxer Collection",
+          "listSlug" : "kickboxer-collection",
+          "traktId" : 477,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "66F4D57C-31FA-4275-8D42-E66890AC9896",
+    "layout" : "Poster",
+    "name" : "Kickboxer"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Kingsman%20Collection.jpg",
@@ -4923,6 +5247,33 @@
     "name" : "Spider-Man (MCU)"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Spider-Man%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Spider-Man Collection",
+        "listSlug" : "spider-man-collection",
+        "traktId" : 67,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Spider-Man Collection",
+          "listSlug" : "spider-man-collection",
+          "traktId" : 67,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "3AFB36B9-91F8-48A8-AFEB-9365F123812E",
+    "layout" : "Poster",
+    "name" : "Spider-Man"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Star%20Trek_%20Complete%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -5373,6 +5724,33 @@
     "name" : "The Avengers"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Babysitter%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Babysitter Collection",
+        "listSlug" : "the-babysitter-collection",
+        "traktId" : 19644159,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Babysitter Collection",
+          "listSlug" : "the-babysitter-collection",
+          "traktId" : 19644159,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "07D4CB0D-D655-4134-ADCD-0DB4A1AFAC42",
+    "layout" : "Poster",
+    "name" : "The Babysitter"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Batman%20Collection.png",
     "dataSource" : {
       "kind" : "traktList",
@@ -5398,6 +5776,33 @@
     "id" : "The_Batman",
     "layout" : "Poster",
     "name" : "The Batman"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Black%20Phone%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Black Phone Collection",
+        "listSlug" : "the-black-phone-collection",
+        "traktId" : 26104890,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Black Phone Collection",
+          "listSlug" : "the-black-phone-collection",
+          "traktId" : 26104890,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "A8DBBC9E-7308-43E9-90B2-F344A53063B6",
+    "layout" : "Poster",
+    "name" : "The Black Phone"
   },
   {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Boss%20Baby%20Collection.jpg",
@@ -6505,6 +6910,60 @@
     "name" : "The Omen"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Pink%20Panther%20(Steve%20Martin)%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Pink Panther (Steve Martin) Collection",
+        "listSlug" : "the-pink-panther-steve-martin-collection",
+        "traktId" : 615,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Pink Panther (Steve Martin) Collection",
+          "listSlug" : "the-pink-panther-steve-martin-collection",
+          "traktId" : 615,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "4E9BABA1-687D-4B27-9240-96997C240E1F",
+    "layout" : "Poster",
+    "name" : "The Pink Panther (Steve Martin)"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Prophecy%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Prophecy Collection",
+        "listSlug" : "the-prophecy-collection",
+        "traktId" : 356,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Prophecy Collection",
+          "listSlug" : "the-prophecy-collection",
+          "traktId" : 356,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "CE21A695-E90D-4FEC-852A-A473A69BB339",
+    "layout" : "Poster",
+    "name" : "The Prophecy"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Punisher%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
@@ -7072,6 +7531,33 @@
     "name" : "Venom"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wicked%20Collection.jpg",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Wicked Collection",
+        "listSlug" : "wicked-collection",
+        "traktId" : 23416908,
+        "username" : "Trakt"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Wicked Collection",
+          "listSlug" : "wicked-collection",
+          "traktId" : 23416908,
+          "username" : "Trakt"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "DB210CE6-54EA-4E20-AB47-8679D46F7E61",
+    "layout" : "Poster",
+    "name" : "Wicked"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wonder%20Woman%20Collection.png",
     "dataSource" : {
       "kind" : "traktList",
@@ -7234,13 +7720,13 @@
     "name" : "Zootopia"
   },
   {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Alvin%20and%20the%20Chipmunks%20Collection.jpg",
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Zorro%20Collection.jpg",
     "dataSource" : {
       "kind" : "traktList",
       "payload" : {
-        "listName" : "Alvin and the Chipmunks Collection",
-        "listSlug" : "alvin-and-the-chipmunks-collection",
-        "traktId" : 299,
+        "listName" : "Zorro Collection",
+        "listSlug" : "zorro-collection",
+        "traktId" : 161,
         "username" : "Trakt"
       }
     },
@@ -7248,43 +7734,16 @@
       {
         "kind" : "traktList",
         "payload" : {
-          "listName" : "Alvin and the Chipmunks Collection",
-          "listSlug" : "alvin-and-the-chipmunks-collection",
-          "traktId" : 299,
+          "listName" : "Zorro Collection",
+          "listSlug" : "zorro-collection",
+          "traktId" : 161,
           "username" : "Trakt"
         }
       }
     ],
     "hideTitle" : true,
-    "id" : "873543DF-67A0-4126-B785-6303168A6186",
+    "id" : "4C098590-03D6-4E99-BD81-5A4FC8D9B4C4",
     "layout" : "Poster",
-    "name" : "Alvin and the Chipmunks"
-  },
-  {
-    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Spider-Man%20Collection.jpg",
-    "dataSource" : {
-      "kind" : "traktList",
-      "payload" : {
-        "listName" : "Spider-Man Collection",
-        "listSlug" : "spider-man-collection",
-        "traktId" : 67,
-        "username" : "Trakt"
-      }
-    },
-    "dataSources" : [
-      {
-        "kind" : "traktList",
-        "payload" : {
-          "listName" : "Spider-Man Collection",
-          "listSlug" : "spider-man-collection",
-          "traktId" : 67,
-          "username" : "Trakt"
-        }
-      }
-    ],
-    "hideTitle" : false,
-    "id" : "3AFB36B9-91F8-48A8-AFEB-9365F123812E",
-    "layout" : "Poster",
-    "name" : "Spider-Man"
+    "name" : "Zorro"
   }
 ]
