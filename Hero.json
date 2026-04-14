@@ -1,6 +1,6 @@
 [
     {
-      "title": "Appletv",
+      "title": "Paramount+",
       "videoURL": "https://raw.githubusercontent.com/you/repo/main/appletv.mp4",
       "logoURL":  "https://raw.githubusercontent.com/you/repo/main/appletv_logo.png"
     },
@@ -10,7 +10,15 @@
       "logoURL":       "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Netflix/IMG_5892.png"
     },
     {
+      "title": "Disney+",
+      "backgroundURL": "https://raw.githubusercontent.com/you/repo/main/marvel.jpg"
+    },
+    {
       "title": "Marvel",
+      "backgroundURL": "https://raw.githubusercontent.com/you/repo/main/marvel.jpg"
+    },
+    {
+      "title": "Hulu",
       "backgroundURL": "https://raw.githubusercontent.com/you/repo/main/marvel.jpg"
     }
 ]
