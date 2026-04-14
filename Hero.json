@@ -1,27 +1,16 @@
 [
     {
-      "title": "Paramount+",
-      "videoURL": "https://raw.githubusercontent.com/you/repo/main/appletv.mp4",
-      "logoURL":  "https://raw.githubusercontent.com/you/repo/main/appletv_logo.png"
-    },
-    {
       "title": "Netflix",
-      "videoURL":      "https://raw.githubusercontent.com//djdirty60/Fusion/raw/refs/heads/main/Afbeeldingen/Netflix/Netflix.mp4",
-      "logoURL":       "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Netflix/IMG_5892.png"
+      "videoURL": "https://raw.githubusercontent.com//djdirty60/Fusion/raw/refs/heads/main/Afbeeldingen/Netflix/Netflix.mp4",
+      "logoURL":  "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Netflix/IMG_5892.png"
     },
     {
       "title": "Disney+",
-      "videoURL": 
-      "logoURL":       "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Disney%2B/Disney_Plus_logo.png"
+      "backgroundURL": "https://raw.githubusercontent.com/you/repo/main/netflix.jpg",
+      "logoURL":       "https://github.com/djdirty60/Fusion/blob/main/Afbeeldingen/Disney%2B/Disney_Plus_logo.png"
     },
     {
       "title": "Marvel",
-      "videoURL": 
-      "logoURL":         
-    },
-    {
-      "title": "Hulu",
-      "videoURL": 
-      "logoURL":         
+      "backgroundURL": "https://raw.githubusercontent.com/you/repo/main/marvel.jpg"
     }
 ]
