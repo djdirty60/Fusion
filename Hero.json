@@ -24,4 +24,9 @@
       "videoURL":      "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Paramount+/Paramount+.mp4",
       "logoURL":       "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Paramount+/Paramount+-logo.png"
     }
+    {
+      "title": "Hulu",
+      "videoURL":      "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Hulu/Hulu.mp4",
+      "logoURL":       "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Hulu/Hulu-Logo.png"
+    },
 ]
