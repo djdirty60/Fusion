@@ -23,10 +23,5 @@
       "title": "Paramount+",
       "videoURL":      "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Paramount+/Paramount+.mp4",
       "logoURL":       "https://raw.githubusercontent.com/djdirty60/Fusion/refs/heads/main/Afbeeldingen/Paramount+/Paramount+-logo.png"
-    },
-    {
-      "title": "Appletv",
-      "videoURL": "https://raw.githubusercontent.com/you/repo/main/appletv.mp4",
-      "logoURL":  "https://raw.githubusercontent.com/you/repo/main/appletv_logo.png"
     }
 ]
