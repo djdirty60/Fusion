@@ -1,0 +1,4014 @@
+{
+  "title" : "Movie Collection",
+  "widgets" : [
+    {
+      "dataSource" : {
+        "payload" : {
+          "items" : [
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/James%20Bond%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "James Bond Collection",
+                  "listSlug" : "james-bond-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "007"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/28%20Days_Weeks_Years%20Later%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "28 Days\/Weeks\/Years Later Collection",
+                  "listSlug" : "28-days-weeks-years-later-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "28 Days Weeks Years Later"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/47%20Meters%20Down%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "47 Meters Down Collection",
+                  "listSlug" : "47-meters-down-collection-dfe6e036-046e-4f39-be98-78b42e7d4e7a",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "47 Meters Down"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/101%20Dalmatians%20(Animated)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "101 Dalmatians (Animated) Collection",
+                  "listSlug" : "101-dalmatians-animated-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "101 Dalmatians (Animated)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/101%20Dalmatians%20(Live-Action)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "101 Dalmatians (Live-Action) Collection",
+                  "listSlug" : "101-dalmatians-live-action-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "101 Dalmatians (Live-Action)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/300%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "300 Collection",
+                  "listSlug" : "300-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "300"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/3689fda1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "A Nightmare on Elm Street Collection",
+                  "listSlug" : "a-nightmare-on-elm-street-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "A Nightmare on Elm Street"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/d56c8626.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "A Quiet Place Collection",
+                  "listSlug" : "a-quiet-place-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "A Quiet Place"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/38ad4f29.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ace Ventura Collection",
+                  "listSlug" : "ace-ventura-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ace Ventura"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Aladdin%20Complete%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Aladdin Collection",
+                  "listSlug" : "aladdin-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Aladdin"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Alice%20in%20Wonderland%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Alice in Wonderland Collection",
+                  "listSlug" : "alice-in-wonderland-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Alice in Wonderland"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/2c74418f.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Alien Collection",
+                  "listSlug" : "alien-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Alien"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/4f63afe9.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Alvin and the Chipmunks Collection",
+                  "listSlug" : "alvin-and-the-chipmunks-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Alvin and the Chipmunks"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/344b063b.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "American Pie Collection",
+                  "listSlug" : "american-pie-collection",
+                  "provider" : "trakt",
+                  "username" : "Stefania19"
+                }
+              ],
+              "title" : "American Pie"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/American%20Pie%20(Spin-off)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "American Pie (Spin-off) Collection",
+                  "listSlug" : "american-pie-spin-off-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "American Pie (Spin-off)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/An%20American%20Werewolf%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "An American Werewolf Collection",
+                  "listSlug" : "an-american-werewolf-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "An American Werewolf"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Annabelle%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Annabelle Collection",
+                  "listSlug" : "annabelle-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Annabelle"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ant-Man%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ant-Man Collection",
+                  "listSlug" : "ant-man-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ant-Man"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Aquaman%20Collection.png",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Aquaman Collection",
+                  "listSlug" : "aquaman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Aquaman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Avatar%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Avatar Collection",
+                  "listSlug" : "avatar-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Avatar"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/AVP%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "AVP Collection",
+                  "listSlug" : "avp-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "AVP"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/b2663518.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Back to the Future Collection",
+                  "listSlug" : "back-to-the-future-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Back to the Future"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/6ffc69f0.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Bad Boys Collection",
+                  "listSlug" : "bad-boys-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Bad Boys"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Bad%20Santa%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Bad Santa Collection",
+                  "listSlug" : "bad-santa-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Bad Santa"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Batman%20Collection-2.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Batman Collection",
+                  "listSlug" : "batman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Batman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Beauty%20and%20the%20Beast%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Beauty and the Beast Collection",
+                  "listSlug" : "beauty-and-the-beast-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Beauty and the Beast"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Beetlejuice%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Beetlejuice Collection",
+                  "listSlug" : "beetlejuice-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Beetlejuice"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/9ff1c712.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Beverly Hills Cop Collection",
+                  "listSlug" : "beverly-hills-cop-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Beverly Hills Cop"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Bird%20Box%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Bird Box Collection",
+                  "listSlug" : "bird-box-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Bird Box"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Beethoven%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Beethoven Collection",
+                  "listSlug" : "beethoven-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Beethoven"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Black%20Panther%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Black Panther Collection",
+                  "listSlug" : "black-panther-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Black Panther"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/790dff03.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Blade Collection",
+                  "listSlug" : "blade-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Blade"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/eaef5071.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Blade Runner Collection",
+                  "listSlug" : "blade-runner-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Blade Runner"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Blair%20Witch%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Blair Witch Collection",
+                  "listSlug" : "blair-witch-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Blair Witch"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Bloodsport%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Bloodsport Collection",
+                  "listSlug" : "bloodsport-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Bloodsport"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/b8be3443.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Bridget Jones Collection",
+                  "listSlug" : "bridget-jones-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Bridget Jones"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Candyman%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Candyman Collection",
+                  "listSlug" : "candyman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Candyman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Captain%20America%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Captain America Collection",
+                  "listSlug" : "captain-america-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Captain America"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/67a54fdf.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Captain Marvel Collection",
+                  "listSlug" : "captain-marvel-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Captain Marvel"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Carrie%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Carrie Collection",
+                  "listSlug" : "carrie-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Carrie"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/9c7fef1c.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Cars Collection",
+                  "listSlug" : "cars-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Cars"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Cheaper%20by%20the%20Dozen%20(2003)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Cheaper by the Dozen (2003) Collection",
+                  "listSlug" : "cheaper-by-the-dozen-2003-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Cheaper by the Dozen (2003)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Children%20of%20the%20Corn%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Children of the Corn Collection",
+                  "listSlug" : "children-of-the-corn-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Children of the Corn"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/ff20cbec.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Child's Play Collection",
+                  "listSlug" : "child-s-play-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Child's Play"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Cloverfield.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Cloverfield Collection",
+                  "listSlug" : "cloverfield-collection-0efa634b-925e-4929-9c3a-fda699b40992",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Cloverfield"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Collection%20of%20the%20Dead.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Return of the Living Dead Collection",
+                  "listSlug" : "return-of-the-living-dead-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "... of the Dead"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Coming%20to%20America%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Coming to America Collection",
+                  "listSlug" : "coming-to-america-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Coming to America"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/00b20809.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Creed Collection",
+                  "listSlug" : "creed-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Creed"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Cube%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Cube Collection",
+                  "listSlug" : "cube-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Cube"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/dd4903d0.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Daddy's Home Collection",
+                  "listSlug" : "daddy-s-home-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Daddy's Home"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Deadpool%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Deadpool Collection",
+                  "listSlug" : "deadpool-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Deadpool"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Death%20Race%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Death Race (2008) Collection",
+                  "listSlug" : "death-race-2008-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Death Race"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Deep%20Blue%20Sea%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Deep Blue Sea Collection",
+                  "listSlug" : "deep-blue-sea-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Deep Blue Sea"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Den%20of%20Thieves%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Den of Thieves Collection",
+                  "listSlug" : "den-of-thieves-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Den of Thieves"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/aa875555.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Despicable Me Collection",
+                  "listSlug" : "despicable-me-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Despicable Me"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Deuce%20Bigalow%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Deuce Bigalow Collection",
+                  "listSlug" : "deuce-bigalow-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Deuce Bigalow"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/9e972baa.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Die Hard Collection",
+                  "listSlug" : "die-hard-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Die Hard"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/ab324ad1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Divergent Collection",
+                  "listSlug" : "divergent-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Divergent"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Doctor%20Strange%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Doctor Strange Collection",
+                  "listSlug" : "doctor-strange-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Doctor Strange"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c5d59c00.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Don't Breathe Collection",
+                  "listSlug" : "don-t-breathe-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Don't Breathe"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/526d7d80.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Dune Collection",
+                  "listSlug" : "dune-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Dune"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Dungeons%20%26%20Dragons%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Dungeons & Dragons Collection",
+                  "listSlug" : "dungeons-dragons-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Dungeons & Dragons"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/ImKaptain\/nuvio-assets\/main\/collections\/Eastrail_177_Trilogy\/Eastrail_177_Trilogy_Base.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Trilogy eastrail 177",
+                  "listSlug" : "trilogy-eastrail-177",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Eastrail 177 Trilogy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Escape%20Plan%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Escape Plan Collection",
+                  "listSlug" : "escape-plan-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Escape Plan"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/7476342e.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Escape Room Collection",
+                  "listSlug" : "escape-room-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Escape Room"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/df6ec619.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Evil Dead Collection",
+                  "listSlug" : "evil-dead-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Evil Dead"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Extraction%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Extraction Collection",
+                  "listSlug" : "extraction-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Extraction"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/aa84780f.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Fantastic Beasts Collection",
+                  "listSlug" : "fantastic-beasts-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Fantastic Beasts"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Fantastic%20Four%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Fantastic Four Collection",
+                  "listSlug" : "fantastic-four-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Fantastic Four"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Fast%20%26%20Furious_%20Complete%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Fast and the Furious Collection",
+                  "listSlug" : "the-fast-and-the-furious-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Fast & Furious"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Fear%20Street%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Fear Street Collection",
+                  "listSlug" : "fear-street-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Fear Street"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/7b075ae1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Final Destination Collection",
+                  "listSlug" : "final-destination-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Final Destination"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/fdaf249c.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Finding Nemo Collection",
+                  "listSlug" : "finding-nemo-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Finding Nemo"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Five%20Nights%20at%20Freddy's%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Five Nights at Freddy's Collection",
+                  "listSlug" : "five-nights-at-freddy-s-collection-27000779",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Five Nights at Freddy's"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Freaky%20Friday%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Freaky Friday Collection",
+                  "listSlug" : "freaky-friday-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Freaky Friday"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/a9fd14b0.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Friday the 13th Collection",
+                  "listSlug" : "friday-the-13th-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Friday the 13th"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Frozen%20Complete%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Frozen Collection",
+                  "listSlug" : "frozen-collection-1996672",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Frozen"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Ghost%20Rider%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ghost Rider Collection",
+                  "listSlug" : "ghost-rider-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ghost Rider"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/3fac65be.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ghostbusters Collection",
+                  "listSlug" : "ghostbusters-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ghostbusters"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/b7a013be.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Godzilla Collection",
+                  "listSlug" : "godzilla-collection-9c855ee5-b153-4fb3-8c96-994b3d1e4199",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Godzilla"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Greenland%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Greenland Collection",
+                  "listSlug" : "greenland-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Greenland"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/47eec346.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Guardians of the Galaxy Collection",
+                  "listSlug" : "guardians-of-the-galaxy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Guardians of the Galaxy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/23069ebe.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Halloween Collection",
+                  "listSlug" : "halloween-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Halloween"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Happy%20Death%20Day%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Happy Death Day Collection",
+                  "listSlug" : "happy-death-day-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Happy Death Day"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Happy%20Gilmore%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Happy Gilmore Collection",
+                  "listSlug" : "happy-gilmore-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Happy Gilmore"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/7649ef92.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Harry Potter Collection",
+                  "listSlug" : "harry-potter-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Harry Potter"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Has%20Fallen%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Has Fallen Collection",
+                  "listSlug" : "has-fallen-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Has Fallen"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hell%20House%20LLC%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hell House LLC Collection",
+                  "listSlug" : "hell-house-llc-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hell House LLC"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hellboy%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hellboy Collection",
+                  "listSlug" : "hellboy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hellboy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/7b6a757c.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hellraiser Collection",
+                  "listSlug" : "hellraiser-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hellraiser"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Herbie%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Herbie Collection",
+                  "listSlug" : "herbie-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Herbie"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hercule%20Poirot%20(Kenneth%20Branagh)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hercule Poirot (Kenneth Branagh) Collection",
+                  "listSlug" : "hercule-poirot-kenneth-branagh-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hercule Poirot"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Highlander%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Highlander Collection",
+                  "listSlug" : "highlander-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Highlander"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hitman%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hitman Collection",
+                  "listSlug" : "hitman-collection-840a07ec-16e7-4651-868d-7ad85af1d2be",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hitman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hocus%20Pocus%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hocus Pocus Collection",
+                  "listSlug" : "hocus-pocus-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hocus Pocus"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/741800f0.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Home Alone Collection",
+                  "listSlug" : "home-alone-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Home Alone"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Hostel%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hostel Collection",
+                  "listSlug" : "hostel-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hostel"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/d12a44e3.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Hotel Transylvania Collection",
+                  "listSlug" : "hotel-transylvania-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Hotel Transylvania"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/I%20Know%20What%20You%20Did%20Last%20Summer%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "I Know What You Did Last Summer Collection",
+                  "listSlug" : "i-know-what-you-did-last-summer-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "I Know What You Did Last Summer"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/781fa072.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ice Age Collection",
+                  "listSlug" : "ice-age-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ice Age"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ice%20Road%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ice Road Collection",
+                  "listSlug" : "ice-road-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ice Road"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Independence%20Day%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Independence Day Collection",
+                  "listSlug" : "independence-day-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Independence Day"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/a913f937.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Indiana Jones Collection",
+                  "listSlug" : "indiana-jones-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Indiana Jones"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Inside%20Out%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Inside Out Collection",
+                  "listSlug" : "inside-out-collection-f26fc748-5abd-48c2-934b-4981cccb9fbd",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Inside Out"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/3062357d.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Insidious Collection",
+                  "listSlug" : "insidious-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Insidious"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Into%20The%20Dark.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Into the Dark Collection",
+                  "listSlug" : "into-the-dark-collection",
+                  "provider" : "trakt",
+                  "username" : "asterlea"
+                }
+              ],
+              "title" : "Into The Dark"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Iron%20Man%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Iron Man Collection",
+                  "listSlug" : "iron-man-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Iron Man"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/1556754d.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "It Collection",
+                  "listSlug" : "it-collection-4214000",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "IT"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Jackass%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Jackass Collection",
+                  "listSlug" : "jackass-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Jackass"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/2939d81b.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Jaws Collection",
+                  "listSlug" : "jaws-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Jaws"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Jeepers%20Creepers%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Jeepers Creepers Collection",
+                  "listSlug" : "jeepers-creepers-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Jeepers Creepers"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/a579c22b.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "John Wick Collection",
+                  "listSlug" : "john-wick-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "John Wick"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Johnny%20English%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Johnny English Collection",
+                  "listSlug" : "johnny-english-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Johnny English"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Joker%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Joker Collection",
+                  "listSlug" : "joker-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Joker"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/d1bbf235.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Jumanji Collection",
+                  "listSlug" : "jumanji-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Jumanji"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ju-on%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ju-on Collection",
+                  "listSlug" : "ju-on-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ju-on"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/8f7531dd.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Jurassic Park Collection",
+                  "listSlug" : "jurassic-park-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Jurassic Park"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Kickboxer%20(Reboot)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Kickboxer Collection",
+                  "listSlug" : "kickboxer-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Kickboxer"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/4d59deea.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Kingsman Collection",
+                  "listSlug" : "kingsman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Kingsman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/af023ee1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Kung Fu Panda Collection",
+                  "listSlug" : "kung-fu-panda-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Kung Fu Panda"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Lady%20and%20the%20Tramp%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Lady and the Tramp Collection",
+                  "listSlug" : "lady-and-the-tramp-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Lady and the Tramp"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/00955ea1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Legally Blonde Collection",
+                  "listSlug" : "legally-blonde-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Legally Blonde"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/ea698ab8.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Lethal Weapon Collection",
+                  "listSlug" : "lethal-weapon-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Lethal Weapon"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Lilo%20%26%20Stitch%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Lilo & Stitch (Animated) Collection",
+                  "listSlug" : "lilo-stitch-animated-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Lilo & Stitch"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/M3GAN%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "M3GAN Collection",
+                  "listSlug" : "m3gan-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "M3GAN"
+            },
+            {
+              "focusGifUrl" : "https:\/\/64.media.tumblr.com\/cca7a86d443a0bc88536a2ad6ce72aec\/b495f88d5c1df470-a2\/s640x960\/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/b59babf1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mad Max Collection",
+                  "listSlug" : "mad-max-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Mad Max"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/687577b6.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Madagascar Collection",
+                  "listSlug" : "madagascar-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Madagascar"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Maleficent%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Maleficent Collection",
+                  "listSlug" : "maleficent-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Maleficent"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Mary%20Poppins%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mary Poppins Collection",
+                  "listSlug" : "mary-poppins-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Mary Poppins"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Mean%20Girls%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mean Girls Collection",
+                  "listSlug" : "mean-girls-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Mean Girls"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/d105299d.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Meet the Parents Collection",
+                  "listSlug" : "meet-the-parents-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Meet the Parents"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Men%20In%20Black%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Men in Black Collection",
+                  "listSlug" : "men-in-black-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Men In Black"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Minions%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Minions Collection",
+                  "listSlug" : "minions-collection-2e5dddf9-d4ca-4dbb-8db5-62083007fc2c",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Minions"
+            },
+            {
+              "focusGifUrl" : "https:\/\/ingeniousguru.com\/wp-content\/uploads\/2022\/10\/Paramount.gif",
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/3b626b1a.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mission: Impossible Collection",
+                  "listSlug" : "mission-impossible-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Mission Impossible"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/3cd34e57.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Monsters, Inc. Collection",
+                  "listSlug" : "monsters-inc-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Monsters, Inc"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Mortal%20Kombat%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mortal Kombat Collection",
+                  "listSlug" : "mortal-kombat-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                },
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mortal Kombat (Reboot) Collection",
+                  "listSlug" : "mortal-kombat-reboot-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Mortal Kombat"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Mulan%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Mulan Collection",
+                  "listSlug" : "mulan-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Mulan"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Murder%20Mystery%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Murder Mystery Collection",
+                  "listSlug" : "murder-mystery-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Murder Mystery"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/My%20Spy%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "My Spy Collection",
+                  "listSlug" : "my-spy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "My Spy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Naked%20Gun%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Naked Gun Collection",
+                  "listSlug" : "naked-gun-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Naked Gun"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/51432bbe.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "National Treasure Collection",
+                  "listSlug" : "national-treasure-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "National Treasure"
+            },
+            {
+              "focusGifUrl" : "https:\/\/64.media.tumblr.com\/cca7a86d443a0bc88536a2ad6ce72aec\/b495f88d5c1df470-a2\/s640x960\/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/b59babf1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Neighbors Collection",
+                  "listSlug" : "neighbors-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Neighbors"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/b7522cb4.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Night at the Museum Collection",
+                  "listSlug" : "night-at-the-museum-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Night at the Museum"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Nobody%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Nobody Collection",
+                  "listSlug" : "nobody-collection-34f155af-0440-4c27-b83d-3df6c6a58b92",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Nobody"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/f7892a33.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Now You See Me Collection",
+                  "listSlug" : "now-you-see-me-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Now You See Me"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/794262fb.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ocean's Collection",
+                  "listSlug" : "ocean-s-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ocean's"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Orphan%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Orphan Collection",
+                  "listSlug" : "orphan-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Orphan"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Oz%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Oz Collection",
+                  "listSlug" : "oz-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Oz"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c1e081d8.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Pacific Rim Collection",
+                  "listSlug" : "pacific-rim-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Pacific Rim"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/295bd9af.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Paranormal Activity Collection",
+                  "listSlug" : "paranormal-activity-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Paranormal Activity"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c1a5f914.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Percy Jackson Collection",
+                  "listSlug" : "percy-jackson-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Percy Jackson"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Pet%20Sematary%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Pet Sematary (Reboot) Collection",
+                  "listSlug" : "pet-sematary-reboot-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Pet Sematary"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Peter%20Pan%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Peter Pan Collection",
+                  "listSlug" : "peter-pan-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Peter Pan"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/563825d1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Pirates of the Caribbean Collection",
+                  "listSlug" : "pirates-of-the-caribbean-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Pirates of the Caribbean"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/84ed6b50.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Pitch Perfect Collection",
+                  "listSlug" : "pitch-perfect-collection-14bf49d6-ea8c-4b73-94d4-400857c4abd2",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Pitch Perfect"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/a4d9d3e6.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Planet of the Apes (Original) Collection",
+                  "listSlug" : "planet-of-the-apes-original-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Planet of the Apes (Original)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Planet%20of%20the%20Apes%20(Reboot)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Planet of the Apes (Reboot) Collection",
+                  "listSlug" : "planet-of-the-apes-reboot-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Planet of the Apes (Reboot)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Pocahontas%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Pocahontas Collection",
+                  "listSlug" : "pocahontas-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Pocahontas"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Police%20Academy%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Police Academy Collection",
+                  "listSlug" : "police-academy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Police Academy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/93361710.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Poltergeist Collection",
+                  "listSlug" : "poltergeist-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Poltergeist"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Power%20Rangers%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Power Rangers Collection",
+                  "listSlug" : "power-rangers-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Power Rangers"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/bcf0d4e0.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Predator Collection",
+                  "listSlug" : "predator-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Predator"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Psycho%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Psycho Collection",
+                  "listSlug" : "psycho-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Psycho"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Puss%20in%20Boots%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Puss in Boots Collection",
+                  "listSlug" : "puss-in-boots-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Puss in Boots"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/300dea0f.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Rambo Collection",
+                  "listSlug" : "rambo-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Rambo"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ready%20or%20Not%20Collection.png",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ready or Not Collection",
+                  "listSlug" : "ready-or-not-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ready or Not"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Rebel%20Moon%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Rebel Moon Collection",
+                  "listSlug" : "rebel-moon-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Rebel Moon"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/RED%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "RED Collection",
+                  "listSlug" : "red-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "RED"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Red%20Riding%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Red Riding Collection",
+                  "listSlug" : "red-riding-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Red Riding"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c81d6b06.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Resident Evil Collection",
+                  "listSlug" : "resident-evil-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Resident Evil"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Revenge%20of%20the%20Nerds%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Revenge of the Nerds Collection",
+                  "listSlug" : "revenge-of-the-nerds-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Revenge of the Nerds"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ride%20Along%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ride Along Collection",
+                  "listSlug" : "ride-along-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ride Along"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ring%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Ring Franchise Movies",
+                  "listSlug" : "the-ring-franchise-movies",
+                  "provider" : "trakt",
+                  "username" : "PhilRivers"
+                }
+              ],
+              "title" : "Ring"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Rio%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Rio Collection",
+                  "listSlug" : "rio-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Rio"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/bcc7e1cb.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Robert Langdon Collection",
+                  "listSlug" : "robert-langdon-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Robert Langdon"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/fc7ef774.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "RoboCop Collection",
+                  "listSlug" : "robocop-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "RoboCop"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/2a82defa.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Rocky Collection",
+                  "listSlug" : "rocky-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Rocky"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/60eea627.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Rush Hour Collection",
+                  "listSlug" : "rush-hour-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Rush Hour"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/6b958d6a.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Saw Collection",
+                  "listSlug" : "saw-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Saw"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/df5fcf3a.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Scary Movie Collection",
+                  "listSlug" : "scary-movie-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Scary Movie"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/ccf7d4df.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Scream Collection",
+                  "listSlug" : "scream-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Scream"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Shazam!%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Shazam! Collection",
+                  "listSlug" : "shazam-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Shazam!"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/5460f3a5.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Shrek Collection",
+                  "listSlug" : "shrek-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Shrek"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Silent%20Hill%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Silent Hill Collection",
+                  "listSlug" : "silent-hill-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Silent Hill"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Silent%20Night%2C%20Deadly%20Night%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Silent Night, Deadly Night Collection",
+                  "listSlug" : "silent-night-deadly-night-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Silent Night, Deadly Night"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Sin%20City%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Sin City Collection",
+                  "listSlug" : "sin-city-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Sin City"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c84a8b86.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Sing Collection",
+                  "listSlug" : "sing-collection-3de2f7a2-6b99-4742-bc0f-0f08ac2e441e",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Sing"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Sinister%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Sinister Collection",
+                  "listSlug" : "sinister-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Sinister"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Sleepaway%20Camp%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Sleepaway Camp Collection",
+                  "listSlug" : "sleepaway-camp-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Sleepaway Camp"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Smile%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Smile Collection",
+                  "listSlug" : "smile-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Smile"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Sonic%20the%20Hedgehog%20Complete%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Sonic the Hedgehog Collection",
+                  "listSlug" : "sonic-the-hedgehog-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Sonic the Hedgehog"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Space%20Jam%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Space Jam Collection",
+                  "listSlug" : "space-jam-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Space Jam"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/67a54fdf.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Spider-Man (MCU) Collection",
+                  "listSlug" : "spider-man-mcu-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Spider-Man (MCU)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/657027ce.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Spider-Man Collection",
+                  "listSlug" : "spider-man-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Spider-Man"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Star%20Trek_%20Complete%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Star Trek: The Original Series Collection",
+                  "listSlug" : "star-trek-the-original-series-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                },
+                {
+                  "itemCount" : 0,
+                  "listName" : "Star Trek: The Next Generation Collection",
+                  "listSlug" : "star-trek-the-next-generation-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                },
+                {
+                  "itemCount" : 0,
+                  "listName" : "Star Trek: Alternate Reality Collection",
+                  "listSlug" : "star-trek-alternate-reality-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Star Trek"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/2f0dac1f.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Star Wars Collection",
+                  "listSlug" : "star-wars-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Star Wars"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Superman%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Superman Collection",
+                  "listSlug" : "superman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Superman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Surf's%20Up%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Surf's Up Collection",
+                  "listSlug" : "surf-s-up-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Surf's Up"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Taken%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Taken Collection",
+                  "listSlug" : "taken-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Taken"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Tangled%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Tangled Collection",
+                  "listSlug" : "tangled-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Tangled"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Tarzan%20(Animation)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Tarzan (Animation) Collection",
+                  "listSlug" : "tarzan-animation-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Tarzan (Animation)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Ted%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Ted Collection",
+                  "listSlug" : "ted-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Ted"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Teenage%20Mutant%20Ninja%20Turtles%20(Remake)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Teenage Mutant Ninja Turtles (Remake) Collection",
+                  "listSlug" : "teenage-mutant-ninja-turtles-remake-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Teenage Mutant Ninja Turtles (Remake)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Terrifier%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Terrifier Collection",
+                  "listSlug" : "terrifier-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Terrifier"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Texas%20Chainsaw%20(Reboot)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Texas Chainsaw (Reboot) Collection",
+                  "listSlug" : "texas-chainsaw-reboot-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Texas Chainsaw (Reboot)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Texas%20Chainsaw%20Massacre%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Texas Chainsaw Massacre Collection",
+                  "listSlug" : "texas-chainsaw-massacre-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Texas Chainsaw Massacre"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Accountant%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Accountant Collection",
+                  "listSlug" : "the-accountant-collection-417e4717-61c6-469c-bf78-d54a289e97ae",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Accountant"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Amazing%20Spider-Man%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Amazing Spider-Man Collection",
+                  "listSlug" : "the-amazing-spider-man-collection-180",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Amazing Spider-Man"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Angry%20Birds%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Angry Birds Collection",
+                  "listSlug" : "the-angry-birds-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Angry Birds"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Avengers%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Avengers Collection",
+                  "listSlug" : "the-avengers-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Avengers"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Babysitter%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Babysitter Collection",
+                  "listSlug" : "the-babysitter-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Babysitter"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/The%20Batman%20Collection.png",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Batman Collection",
+                  "listSlug" : "the-batman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Batman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Black%20Phone%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Black Phone Collection",
+                  "listSlug" : "the-black-phone-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Black Phone"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/ab40d744.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Boss Baby Collection",
+                  "listSlug" : "the-boss-baby-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Boss Baby"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/f28b60be.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Bourne Collection",
+                  "listSlug" : "the-bourne-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Bourne"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Boy%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Boy Collection",
+                  "listSlug" : "the-boy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Boy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Christmas%20Chronicles%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Christmas Chronicles Collection",
+                  "listSlug" : "the-christmas-chronicles-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Christmas Chronicles"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/0f380e0e.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Chronicles of Narnia Collection",
+                  "listSlug" : "the-chronicles-of-narnia-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Chronicles of Narnia"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Collector%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Collector Collection",
+                  "listSlug" : "the-collector-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Collector"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/1cb88558.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Conjuring Collection",
+                  "listSlug" : "the-conjuring-collection-745170",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Conjuring"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Croods%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Croods Collection",
+                  "listSlug" : "the-croods-collection-5d68508e-44c2-4874-94cc-68aa982deeb7",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Croods"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/7948192d.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Dark Knight Collection",
+                  "listSlug" : "the-dark-knight-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Dark Knight"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Devil%20Wears%20Prada%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Devil Wears Prada Collection",
+                  "listSlug" : "the-devil-wears-prada-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Devil Wears Prada"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/d91b26b5.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Equalizer Collection",
+                  "listSlug" : "the-equalizer-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Equalizer"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/36f9b405.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Exorcist Collection",
+                  "listSlug" : "the-exorcist-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Exorcist"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/027dbd9e.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Expendables Collection",
+                  "listSlug" : "the-expendables-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Expendables"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/a547f450.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Godfather Collection",
+                  "listSlug" : "the-godfather-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Godfather"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Gremlins%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Gremlins Collection",
+                  "listSlug" : "the-gremlins-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Gremlins"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/f4806772.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Grudge Collection",
+                  "listSlug" : "the-grudge-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Grudge"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/6148088a.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Hangover Collection",
+                  "listSlug" : "the-hangover-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Hangover"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/5fdc64d1.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Hannibal Lecter Collection",
+                  "listSlug" : "the-hannibal-lecter-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Hannibal Lecter"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Hitman's%20Bodyguard%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Hitman's Bodyguard Collection",
+                  "listSlug" : "the-hitman-s-bodyguard-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Hitman's Bodyguard"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/4f4fc8b4.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Hobbit Collection",
+                  "listSlug" : "the-hobbit-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Hobbit"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/f1ada021.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Hunger Games Collection",
+                  "listSlug" : "the-hunger-games-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Hunger Games"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Huntsman%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Huntsman Collection",
+                  "listSlug" : "the-huntsman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Huntsman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/83f3a2da.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Incredibles Collection",
+                  "listSlug" : "the-incredibles-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Incredibles"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Jack%20Ryan%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Jack Ryan Collection",
+                  "listSlug" : "the-jack-ryan-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Jack Ryan"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Jungle%20Book%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Jungle Book Collection",
+                  "listSlug" : "the-jungle-book-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Jungle Book"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/01958ba9.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Karate Kid Collection",
+                  "listSlug" : "the-karate-kid-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Karate Kid"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Lion%20King%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Lion King Collection",
+                  "listSlug" : "the-lion-king-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Lion King"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Lion%20King%20(Reboot)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Lion King (Reboot) Collection",
+                  "listSlug" : "the-lion-king-reboot-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Lion King (Reboot)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Little%20Mermaid%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Little Mermaid Collection",
+                  "listSlug" : "the-little-mermaid-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Little Mermaid"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/a52436af.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Lord of the Rings Collection",
+                  "listSlug" : "the-lord-of-the-rings-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Lord of the Rings"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/6dcc40bb.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Matrix Collection",
+                  "listSlug" : "the-matrix-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Matrix"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c6b1f8dc.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Maze Runner Collection",
+                  "listSlug" : "the-maze-runner-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Maze Runner"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Meg%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Meg Collection",
+                  "listSlug" : "the-meg-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Meg"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/74358baf.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Mighty Ducks Collection",
+                  "listSlug" : "the-mighty-ducks-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Mighty Ducks"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/42fbdc73.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Mummy Collection",
+                  "listSlug" : "the-mummy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Mummy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20NeverEnding%20Story%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The NeverEnding Story Collection",
+                  "listSlug" : "the-neverending-story-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The NeverEnding Story"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Nun%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Nun Collection",
+                  "listSlug" : "the-nun-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Nun"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Nutty%20Professor%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Nutty Professor Collection",
+                  "listSlug" : "the-nutty-professor-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Nutty Professor"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Old%20Guard%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Old Guard Collection",
+                  "listSlug" : "the-old-guard-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Old Guard"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c90d869d.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Omen Collection",
+                  "listSlug" : "the-omen-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Omen"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Pink%20Panther%20(Steve%20Martin)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Pink Panther (Steve Martin) Collection",
+                  "listSlug" : "the-pink-panther-steve-martin-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Pink Panther (Steve Martin)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Prophecy%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Prophecy Collection",
+                  "listSlug" : "the-prophecy-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Prophecy"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Punisher%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Punisher Collection",
+                  "listSlug" : "the-punisher-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Punisher"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/ab5648ce.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Purge Collection",
+                  "listSlug" : "the-purge-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Purge"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c998383a.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Ring Collection",
+                  "listSlug" : "the-ring-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Ring"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Santa%20Clause%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Santa Clause Collection",
+                  "listSlug" : "the-santa-clause-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Santa Clause"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/7175f50b.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Secret Life of Pets Collection",
+                  "listSlug" : "the-secret-life-of-pets-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Secret Life of Pets"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Smurfs%20(Theatrical)%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Smurfs (Theatrical) Collection",
+                  "listSlug" : "the-smurfs-theatrical-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Smurfs (Theatrical)"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Strangers%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Strangers (Remake) Collection",
+                  "listSlug" : "the-strangers-remake-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Strangers"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/8bcbf4ec.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Terminator Collection",
+                  "listSlug" : "the-terminator-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Terminator"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/edca54de.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Transporter Collection",
+                  "listSlug" : "the-transporter-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Transporter"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Trolls%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Trolls Collection",
+                  "listSlug" : "the-trolls-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Trolls"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/599a9d56.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Twilight Collection",
+                  "listSlug" : "the-twilight-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Twilight"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/The%20Witch%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Witch Collection",
+                  "listSlug" : "the-witch-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Witch"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/The%20Wolverine%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "The Wolverine Collection",
+                  "listSlug" : "the-wolverine-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "The Wolverine"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Thor%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Thor Collection",
+                  "listSlug" : "thor-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Thor"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/143f4860.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Top Gun Collection",
+                  "listSlug" : "top-gun-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Top Gun"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/fc258a59.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Toy Story Collection",
+                  "listSlug" : "toy-story-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Toy Story"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/e46ec78e.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Transformers Collection",
+                  "listSlug" : "transformers-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Transformers"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Twister%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Twister Collection",
+                  "listSlug" : "twister-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Twister"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/0d236814.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Underworld Collection",
+                  "listSlug" : "underworld-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Underworld"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/3b3f45f0.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "V\/H\/S Collection",
+                  "listSlug" : "v-h-s-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "V_H_S"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Venom%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Venom Collection",
+                  "listSlug" : "venom-collection-6273063",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Venom"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wicked%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Wicked Collection",
+                  "listSlug" : "wicked-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Wicked"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/files\/Wonder%20Woman%20Collection.png",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Wonder Woman Collection",
+                  "listSlug" : "wonder-woman-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Wonder Woman"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Wrong%20Turn%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Wrong Turn Collection",
+                  "listSlug" : "wrong-turn-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Wrong Turn"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/X%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "X Collection",
+                  "listSlug" : "x-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "X"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/726b165f.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "X-Men Collection",
+                  "listSlug" : "x-men-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "X-Men"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/imkaptain.github.io\/nuvio-assets\/assets\/images\/c38a8e3a.webp",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "xXx Collection",
+                  "listSlug" : "xxx-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "xXx"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Zootopia.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Zootopia Collection",
+                  "listSlug" : "zootopia-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Zootopia"
+            },
+            {
+              "hideTitle" : true,
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/djdirty60\/Fusion\/refs\/heads\/main\/collection\/Zorro%20Collection.jpg",
+              "listSources" : [
+                {
+                  "itemCount" : 0,
+                  "listName" : "Zorro Collection",
+                  "listSlug" : "zorro-collection",
+                  "provider" : "trakt",
+                  "username" : "Trakt"
+                }
+              ],
+              "title" : "Zorro"
+            }
+          ]
+        }
+      },
+      "title" : "Movie Collection"
+    }
+  ]
+}
